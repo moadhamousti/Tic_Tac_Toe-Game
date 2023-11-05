@@ -2,6 +2,7 @@
 from tkinter import *
 import random as r
 
+
 #Function to define buttons
 def CellButton(frame):
     b=Button(frame,padx=1,bg="#8fece9",width=3,text="   ",font=('Nunito',60,'bold'),relief="sunken",bd=5)
