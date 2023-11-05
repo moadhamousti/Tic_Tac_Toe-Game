@@ -8,7 +8,6 @@ def CellButton(frame):
     return b
 
 
-
 #Defining window
 root=Tk()
 
