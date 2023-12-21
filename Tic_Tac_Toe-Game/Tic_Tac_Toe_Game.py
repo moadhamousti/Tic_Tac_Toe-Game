@@ -1,4 +1,4 @@
-#Importing needed library 
+#Importing needed library  
 from tkinter import *
 import random as r
  
